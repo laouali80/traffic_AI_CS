@@ -454,12 +454,6 @@ Potential improvements to explore:
 * 0.5
 * 0.7
 
-### Data Augmentation
-
-* Rotation
-* Zoom
-* Translation
-* Brightness adjustments
 
 ---
 
